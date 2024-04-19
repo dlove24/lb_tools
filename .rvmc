@@ -1,0 +1,5 @@
+# Install rubies when used if are not installed.
+export rvm_install_on_use_flag=1
+
+# Create a gemset when the gemset is used if it does not exist
+export rvm_gemset_create_on_use_flag=1
