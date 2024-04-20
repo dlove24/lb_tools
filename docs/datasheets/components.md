@@ -1,10 +1,10 @@
 ---
-title: Datasheets
-nav_order: 1
-has_children: true
+title: Component Datasheets
+parent: Datasheets
+nav_order: 2
 ---
 
-# Datasheets
+# Component Datasheets
 
 This section contains links to component datasheets, used in the
 modules and available at the Helpdesk.
