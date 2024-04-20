@@ -12,3 +12,6 @@ gem "bigdecimal"
 gem "jekyll", ">=4.3"
 gem "minima", "~>2.5"
 gem "webrick"
+
+# Install theme and dependencies
+gem "just-the-docs"
