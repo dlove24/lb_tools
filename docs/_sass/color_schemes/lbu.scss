@@ -1,0 +1,64 @@
+////
+//// Default colour scheme for the Leeds Beckett Documentation
+//// and tools site.
+////
+//// This colour scheme is based on the Leeds Beckett branding
+//// for overall colour contrast and spacing, modified by using
+//// the standard colour scheme for documentation elements 
+
+// Import the standard 'light; colour scheme
+@import "./color_schemes/light";
+
+///
+/// Documentation Colours
+/// 
+
+$signal-yellow: #f7ba0b;
+$signal-orange: #d4652f;
+$signal-red:    #a02128;
+$signal-violet: #904684;
+$signal-blue:   #154889;
+$signal-green:  #317f43;
+$signal-grey:   #9b9b9b;
+$signal-brown:  #7b5141;
+$signal-white:  #f4f4f4;
+$signal-black:  #282828;
+
+///
+/// Element Colours
+/// 
+
+// Body Colours
+
+$body-heading-color: $signal-white;
+$body-text-color: $signal-black;
+$body-background-color: $signal-white;
+
+// Page Colours
+
+$link-color: $signal-orange;
+
+$code-background-color: $signal-white;
+$table-background-color: $signal-white;
+
+// Search Colours
+
+$search-background-color: $signal-white;
+$search-result-preview-color: $signal-grey;
+
+// Sidebar Colours
+
+$sidebar-color: $signal-black;
+
+$nav-child-link-color: $signal-black;
+
+$base-button-color: $signal-white;
+$btn-primary-color: $signal-violet;
+
+$feedback-color: $signal-black;
+
+///
+/// Syntax Highlighting
+/// 
+
+@import "./vendor/OneLightJekyll/syntax";

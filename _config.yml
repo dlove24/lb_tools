@@ -1,15 +1,29 @@
 ###
-### Site Settings
-### 
+### Core configuration for Jekyll, used to build the documentation
+### set for the Leeds Beckett tools repository.
+###
+### See [the core documentation](https://jekyllrb.com/docs/configuration/options/)
+### for the options used in this file.
+###
+### NOTE: The documentation is built (and deployed) using an action
+###       on Github. Any changes to this file also need to be checked
+###       to ensure the public pages don't break...
+###
 
-title: Leeds Beckett Electronics and Robotics Tools
+##
+## Site Settings
+## 
+
+title: Leeds Beckett Tools
 
 description: >- # this means to ignore newlines until "baseurl:"
   Tools, documentation and other resources for Electronic, Electrical and Robotics Engineering modules and courses at Leeds Beckett University
 
-###
-### Build
-###
+color_scheme: lbu
+
+##
+## Build
+##
 
 # Root directory for the source
 source: docs
@@ -25,6 +39,10 @@ exclude:
   - Gemfile.lock
   - node_modules/
 
+# Allow following of symbolic links, so that we don't have to
+# copy all the documentation to the 'docs' directory
+safe: false
+
 # Theme
 theme: just-the-docs
 
@@ -32,9 +50,9 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
-###
-### Serve Command Options
-###
+##
+## Serve Command Options
+##
 
 # Listen on port 8080
 port: 8080
