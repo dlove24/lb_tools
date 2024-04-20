@@ -21,3 +21,10 @@ _site/**
 
 # Ignore upload packages
 upload.zip
+
+# Ignore Jekyll generated pages and infrastructure
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
