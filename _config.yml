@@ -50,6 +50,9 @@ exclude:
   - Gemfile.lock
   - node_modules/
 
+include:
+  - assets/
+
 # Allow following of symbolic links, so that we don't have to
 # copy all the documentation to the 'docs' directory
 safe: false
