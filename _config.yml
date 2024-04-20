@@ -21,6 +21,8 @@ defaults:
     values:
       layout: "page"
 
+baseurl: /lb_tools
+
 ##
 ## Site Settings
 ## 
