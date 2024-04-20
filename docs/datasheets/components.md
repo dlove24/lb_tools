@@ -12,4 +12,4 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 ### Light Dependent Resistors
 
-[Advanced Photonix NSL-19M51]({{ baseurl }}/assets/datasheets/components/NSL-19M51.pdf)
+[Advanced Photonix NSL-19M51]({{ site.baseurl }}/assets/datasheets/components/NSL-19M51.pdf)
