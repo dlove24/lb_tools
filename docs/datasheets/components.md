@@ -28,6 +28,10 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 * [Advanced Photonix NSL-19M51]({{ site.baseurl }}/assets/datasheets/components/NSL-19M51.pdf)
 
+### Photo Interrupter
+
+* [Sharp GP1S094HCZ0F]({{ site.baseurl }}/assets/datasheets/components/1A57HR.pdf)
+
 ### Thermistors
 
 * [Semitec AT Series NTC Thermistor]({{ site.baseurl }}/assets/datasheets/components/ATC-30167.pdf)
