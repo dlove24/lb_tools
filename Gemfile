@@ -14,4 +14,4 @@ gem "minima", "~>2.5"
 gem "webrick"
 
 # Install theme and dependencies
-gem "just-the-docs"
+gem "just-the-docs", "~>0.8"

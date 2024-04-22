@@ -94,7 +94,7 @@ DEPENDENCIES
   bigdecimal
   csv
   jekyll (>= 4.3)
-  just-the-docs
+  just-the-docs (~> 0.8)
   minima (~> 2.5)
   webrick
 
