@@ -14,6 +14,12 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 * [Fairchild 1N3064 Small Signal]({{ site.baseurl }}/assets/datasheets/components/1N3064.pdf)
 
+## Integrated Circuits
+
+### Discrete Analogue to Digital Convertors
+
+* [Maxim ADC0820CCN 8-bit ADC]({{ site.baseurl }}/assets/datasheets/components/ADC0820CCN.pdf)
+
 ## Light Emitting Diodes
 
 ### 5mm Standard
@@ -32,6 +38,12 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 * [Kingbright SA52-11EWA (Common Anode)]({{ site.baseurl }}/assets/datasheets/components/SA52-11EWA_Anode.pdf)
 * [Kingbright SC52-11EWA (Common Cathode)]({{ site.baseurl }}/assets/datasheets/components/SC52-11EWA_Cathode.pdf)
+
+## Operational Amplifiers
+
+### Standard
+
+[Texas Instruments LM358A]({{ site.baseurl }}/assets/datasheets/components/LM358.pdf)
 
 ## Relays
 
