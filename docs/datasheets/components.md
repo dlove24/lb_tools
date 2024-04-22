@@ -17,7 +17,12 @@ The datasheets in this section are taken from the suppliers websites: and may di
 * [Multicomp Pro Round Green]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Green.pdf)
 * [Multicomp Pro Round Yellow]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Yellow.pdf)
 
-### Seven-Segment Displays
+### Seven-Segment Displays (Large)
+
+* [Opto Plus OPD-S6010LB (Common Anode)]({{ site.baseurl }}/assets/datasheets/components/OPD_S6010LB.pdf)
+* [Opto Plus OPD-S6011LB (Common Cathode)]({{ site.baseurl }}/assets/datasheets/components/OPD_S6010LB.pdf)
+
+### Seven-Segment Displays (Small)
 
 * [Kingbright SA52-11EWA (Common Anode)]({{ site.baseurl }}/assets/datasheets/components/SA52-11EWA_Anode.pdf)
 * [Kingbright SC52-11EWA (Common Cathode)]({{ site.baseurl }}/assets/datasheets/components/SC52-11EWA_Cathode.pdf)
