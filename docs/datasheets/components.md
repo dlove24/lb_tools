@@ -22,6 +22,12 @@ The datasheets in this section are taken from the suppliers websites: and may di
 * [Kingbright SA52-11EWA (Common Anode)]({{ site.baseurl }}/assets/datasheets/components/SA52-11EWA_Anode.pdf)
 * [Kingbright SC52-11EWA (Common Cathode)]({{ site.baseurl }}/assets/datasheets/components/SC52-11EWA_Cathode.pdf)
 
+## Relays
+
+### Miniature
+
+* [Sparkfun JZC-11F]({{ site.baseurl }}/assets/datasheets/components/JZC-11F.pdf)
+
 ## Sensors
 
 ### Light Dependent Resistors
