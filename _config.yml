@@ -28,6 +28,8 @@ baseurl: /lb_tools
 ## 
 
 title: Leeds Beckett Tools
+logo: https://my.leedsbeckett.ac.uk/branding/_1_1/CustomNavigationLogo.png
+favicon_ico: https://my.leedsbeckett.ac.uk/branding/_1_1/CustomNavigationLogo.png
 
 description: >- # this means to ignore newlines until "baseurl:"
   Tools, documentation and other resources for Electronic, Electrical and Robotics Engineering modules and courses at Leeds Beckett University
