@@ -41,6 +41,10 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 ## Sensors
 
+### Hall Effect
+
+* [Honeywell SS466A Latch]({{ site.baseurl }}/assets/datasheets/components/SS466A.pdf)
+
 ### Light Dependent Resistors
 
 * [Advanced Photonix NSL-19M51]({{ site.baseurl }}/assets/datasheets/components/NSL-19M51.pdf)
@@ -56,10 +60,10 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 ## Transistors
 
-## NPN
+### NPN
 
 * [Multicomp Pro 2N3904 BJT Switching]({{ site.baseurl }}/assets/datasheets/components/2N3904.pdf)
 
-## PNP
+### PNP
 
 * [Multicomp Pro 2N3906 BJT Switching]({{ site.baseurl }}/assets/datasheets/components/2N3906.pdf)
