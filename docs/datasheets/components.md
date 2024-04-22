@@ -43,7 +43,7 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 ### Standard
 
-[Texas Instruments LM358A]({{ site.baseurl }}/assets/datasheets/components/LM358.pdf)
+* [Texas Instruments LM358A]({{ site.baseurl }}/assets/datasheets/components/LM358.pdf)
 
 ## Relays
 
