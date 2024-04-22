@@ -8,6 +8,12 @@ nav_order: 2
 
 The datasheets in this section are taken from the suppliers websites: and may differ slightly from the actual component in your hand. Many components are manufactured as copies, and in _most_ cases they work identically. If you have any questions, though, please ask.
 
+## Diodes
+
+### Standard
+
+* [Fairchild 1N3064 Small Signal]({{ site.baseurl }}/assets/datasheets/components/1N3064.pdf)
+
 ## Light Emitting Diodes
 
 ### 5mm Standard
@@ -47,3 +53,13 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 * [Semitec AT Series NTC Thermistor]({{ site.baseurl }}/assets/datasheets/components/ATC-30167.pdf)
 * [BrightKing TDC Thermistor]({{ site.baseurl }}/assets/datasheets/components/TDC-310.pdf)
+
+## Transistors
+
+## NPN
+
+* [Multicomp Pro 2N3904 BJT Switching]({{ site.baseurl }}/assets/datasheets/components/2N3904.pdf)
+
+## PNP
+
+* [Multicomp Pro 2N3906 BJT Switching]({{ site.baseurl }}/assets/datasheets/components/2N3906.pdf)
