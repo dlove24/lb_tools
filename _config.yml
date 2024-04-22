@@ -10,6 +10,16 @@
 ###       to ensure the public pages don't break...
 ###
 
+## Page Settings
+
+callouts:
+  warning:
+    title: Warning
+    color: signal-orange
+  note:
+    title: Note
+    color: signal-brown
+
 ##
 ## Site Defaults
 ## 
