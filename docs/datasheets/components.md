@@ -10,6 +10,13 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 ## Light Emitting Diodes
 
+### 5mm Standard
+
+* [Multicomp Pro Round Blue]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Blue.pdf)
+* [Multicomp Pro Round Red]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Red.pdf)
+* [Multicomp Pro Round Green]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Green.pdf)
+* [Multicomp Pro Round Yellow]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Yellow.pdf)
+
 ### Seven-Segment Displays
 
 * [Kingbright SA52-11EWA (Common Anode)]({{ site.baseurl }}/assets/datasheets/components/SA52-11EWA_Anode.pdf)
