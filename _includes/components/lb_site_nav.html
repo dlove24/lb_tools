@@ -35,9 +35,10 @@
       {%- endfor -%}
     </ul>
   {%- endif -%}
+
   {% if site.just_the_docs.collections %}
     {% assign collections_size = site.just_the_docs.collections | size %}
-    {% for collection_entry in site.just_the_docs.collections %}
+    {% for collection_entry in site.just_the_docs.collections %} 
       {% assign collection_key = collection_entry[0] %}
       {% assign collection_value = collection_entry[1] %}
       {% assign collection = site[collection_key] %}
@@ -52,15 +53,15 @@
                 </button>
                 {%- endif -%}
                 <div class="nav-category">{{ collection_value.name }}</div>
-                {% include components/nav.html pages=collection %}
+                {% include components/lb_nav.html pages=collection %}
               </li>
             </ul>
           {% else %}
             <div class="nav-category">{{ collection_value.name }}</div>
-            {% include components/nav.html pages=collection %}
+            {% include components/lb_nav.html pages=collection %}
           {% endif %}
         {% else %}
-          {% include components/nav.html pages=collection %}
+          {% include components/lb_nav.html pages=collection %}
         {% endif %}
       {% endif %}
     {% endfor %}

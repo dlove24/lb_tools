@@ -6,7 +6,7 @@
 //// for overall colour contrast and spacing, modified by using
 //// the standard colour scheme for documentation elements 
 
-// Import the standard 'light; colour scheme
+// Import the standard 'light' colour scheme
 @import "./color_schemes/light";
 
 ///
@@ -47,11 +47,16 @@ $feedback-color: $signal-black;
 
 @import "./vendor/OneLightJekyll/syntax";
 
-/// Custom CSS for the LB House style. This should be mostly
-/// customised using the colours above.
+/// 
+/// Change the side-bar navigation colours to better resemble
+/// MyBeckett. Colours should be customised using the colours
+/// in `setup.scss'
+///
 
-// Change the side-bar navigation colours to better resemble
-// MyBeckett
+//
+// Non-collection lists
+//
+
 .nav-list {
   
     .nav-list-item {
@@ -171,4 +176,15 @@ $feedback-color: $signal-black;
     }
   }
   
-  
+//
+// Collection lists
+//
+
+.nav-category-list {
+  color: white;
+
+}
+
+.nav-category {
+  color: white;
+}

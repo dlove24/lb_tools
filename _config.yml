@@ -10,8 +10,11 @@
 ###       to ensure the public pages don't break...
 ###
 
+##
 ## Page Settings
+##
 
+# Colours and definitions for the page callouts
 callouts:
   warning:
     title: Warning
@@ -19,6 +22,47 @@ callouts:
   note:
     title: Note
     color: signal-brown
+
+# Force the use of page anchors: needed for heading mods
+# using [jekyll-anchor-headings ](https://github.com/allejo/jekyll-anchor-headings)
+heading_anchors: true
+
+# Set the variable for the page colour
+section_color: "#DD0000"
+
+##
+## Page Categories
+##
+
+# Root directory for the collections of source
+# documents
+collections_dir: docs
+
+# Site collection categories
+collections:
+  explanation:
+    output: true
+  howto:
+    output: true
+  reference:
+    output: true
+  tutorial:
+    output: true
+
+just_the_docs:
+  collections:
+    tutorial:
+      name: Tutorials
+      nav_fold: false
+    howto:
+      name: How To's
+      nav_fold: false
+    explanation:
+      name: Explanations
+      nav_fold: false
+    reference:
+      name: References
+      nav_fold: false
 
 ##
 ## Site Defaults
@@ -29,7 +73,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "page"
+      layout: "lbu"
 
 baseurl: /lb_tools
 
@@ -46,11 +90,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 color_scheme: lbu
 
 ##
-## Build
+## Build Settings
 ##
-
-# Root directory for the source
-source: docs
 
 # Exclude directories from processing
 exclude:
