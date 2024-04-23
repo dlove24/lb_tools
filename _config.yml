@@ -31,6 +31,32 @@ callouts:
 # documents
 collections_dir: docs
 
+# Site collection categories
+collections:
+  explanation:
+    output: true
+  howto:
+    output: true
+  reference:
+    output: true
+  tutorial:
+    output: true
+
+just_the_docs:
+  collections:
+    tutorial:
+      name: Tutorials
+      nav_fold: false
+    howto:
+      name: How To's
+      nav_fold: false
+    explanation:
+      name: Explanations
+      nav_fold: false
+    reference:
+      name: References
+      nav_fold: false
+
 ##
 ## Site Defaults
 ## 
