@@ -23,6 +23,13 @@ callouts:
     title: Note
     color: signal-brown
 
+# Force the use of page anchors: needed for heading mods
+# using [jekyll-anchor-headings ](https://github.com/allejo/jekyll-anchor-headings)
+heading_anchors: true
+
+# Set the variable for the page colour
+section_color: "#DD0000"
+
 ##
 ## Page Categories
 ##
@@ -66,7 +73,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "page"
+      layout: "lbu"
 
 baseurl: /lb_tools
 
