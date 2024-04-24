@@ -20,6 +20,14 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 * [Maxim ADC0820CCN 8-bit ADC]({{ site.baseurl }}/assets/datasheets/components/ADC0820CCN.pdf)
 
+### Resistor Arrays
+
+* [Bourns 4116R LF 8-way 220R Isolated]({{ site.baseurl }}/assets/datasheets/components/4100R.pdf)
+
+### Thermoneters and Thermostats
+
+* [Maxim DS1631 Thermometer]({{ site.baseurl }}/assets/datasheets/components/DS1631.pdf)
+
 ## Light Emitting Diodes
 
 ### 5mm Standard
@@ -28,6 +36,10 @@ The datasheets in this section are taken from the suppliers websites: and may di
 * [Multicomp Pro Round Red]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Red.pdf)
 * [Multicomp Pro Round Green]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Green.pdf)
 * [Multicomp Pro Round Yellow]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Yellow.pdf)
+
+### RGB
+
+* [Pro Signal PSG91924 (Common Cathode)]()
 
 ### Seven-Segment Displays (Large)
 
