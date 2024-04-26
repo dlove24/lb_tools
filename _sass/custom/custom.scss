@@ -1,4 +1,15 @@
-// Ignore bottom borders
+////
+//// Exceptional overrides for CSS elements in the layout and
+//// theme. Ideally these should be part of the 'theme', so
+//// that all the core transforms are in one place. However
+//// some CSS elements are set by the layout, and cannot be
+//// modified by the theme: those layout elements are instead
+//// changed here.
+////
+
+
+// Ignore bottom borders in the layout. The top-boarder is set
+// by the theme
 .nav-category {
   border-bottom: 1px solid $sidebar-color;
 }
