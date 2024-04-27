@@ -28,4 +28,6 @@ The main changes to the Just the Docs theme are intended to provide visual compa
 * `_includes/components/lb_site_nav.html`: Builds the core collections, and uses `lb-nav-list-expander` to style the documentation within each collection.
 * `_includes/components/sidebar.html`: Forces a difference between link colours in the sidebar, and those on the main page. This allows the sidebar to use a dark theme background, but retain the standard colour for documentation links.
 
-All documentation by default uses the '`lbu`' layout, which will colour the content in the `_explanation`, `_howto`, `_reference` and `_tutorial` directories appropriately.
+All documentation by default uses the '`lbu`' layout, which will colour the content in the `_explanation`, `_howto`, `_reference` and `_tutorial` directories appropriately. 
+
+The colouration of the headers is done via the 'Just the Docs' inclusion of the '`anchor-headings`' plugin from [`jekyll-anchor-headings`](https://github.com/allejo/jekyll-anchor-headings). Using the '`headerAttrs`' parameter allows a suitable colouration of the header: without JavaScript or custom plugins (which are not allowed on GitHub pages).
