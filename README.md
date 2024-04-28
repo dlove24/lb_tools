@@ -23,7 +23,7 @@ For the _CSS_ implementing the theme, the core implementation lives at '`_sass/c
 
 ## Custom Layouts
 
-The main changes to the Just the Docs theme are intended to provide visual compatability with MyBeckett. Currently these changes are provided as includes for both Just the Docs and Jekyll: both in the '`_includes`' subdirectory.
+The main changes to the Just the Docs theme are intended to provide visual compatibility with MyBeckett. Currently these changes are provided as includes for both Just the Docs and Jekyll: both in the '`_includes`' subdirectory.
 
 * `_includes/icons/expand.html`: Changes the default arrow for sub-sections from an outline arrow-head to a filled triangle, patterned on MyBeckett. The core SVG for this is included at '`assets/icons/expand.svg`'.
 * `_includes/components/lb_nav.html`: Uses the `lb-nav-list-expander` class (patterned on `nav-list-expander`), which allows a different link style to be applied to links in the sidebar. Also uses `lb-nav-list-link` (patterned on `nav-list-link`) for individual list items.
