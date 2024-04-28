@@ -1,4 +1,115 @@
-// Ignore bottom borders
+////
+//// Exceptional overrides for CSS elements in the layout and
+//// theme. Ideally these should be part of the 'theme', so
+//// that all the core transforms are in one place. However
+//// some CSS elements are set by the layout, and cannot be
+//// modified by the theme: those layout elements are instead
+//// changed here.
+////
+
+///
+/// Colours
+///
+
+// Classes for the actual colour names
+
+.signal-yellow {
+  color:  #f7ba0b;
+}
+.signal-orange {
+  color:  #d4652f;
+}
+.signal-red {
+  color:     #a02128;
+}
+.signal-violet {
+  color:  #904684;
+}
+.signal-blue {
+  color:    #154889;
+}
+.signal-green {
+  color:   #317f43;
+}
+.signal-grey {
+  color:    #9b9b9b;
+}
+.signal-brown {
+  color:   #7b5141;
+}
+.signal-white {
+  color:   #f4f4f4;
+}
+.signal-black {
+  color:   #282828;
+}
+
+// Alias classes for common name (as the standard colour palette)
+
+.yellow {
+  color:  #f7ba0b;
+}
+.orange {
+  color:  #d4652f;
+}
+.red {
+  color:     #a02128;
+}
+.violet {
+  color:  #904684;
+}
+.blue {
+  color:    #154889;
+}
+.green {
+  color:   #317f43;
+}
+.grey {
+  color:    #9b9b9b;
+}
+.brown {
+  color:   #7b5141;
+}
+.white {
+  color:   #f4f4f4;
+}
+.black {
+  color:   #282828;
+}
+
+///
+/// Images
+///
+
+// Width Modifiers
+
+.width_25 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.width_50 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.width_75 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+///
+/// Sidebar
+///
+
+// Ignore bottom borders in the layout. The top-boarder is set
+// by the theme
 .nav-category {
   border-bottom: 1px solid $sidebar-color;
 }

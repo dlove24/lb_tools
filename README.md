@@ -11,7 +11,9 @@ Content should be placed in the '`docs`' directory, in the appropriate sub-folde
 * `_reference`: Lists the basic facts needed in other activities. Examples of suitable material are links to the API or source code for a specific library, data-sheets for components or other devices, and papers and books from the academic literature expanding on a specific topic or area.
 * `_tutorial`: Will have a series of _learning outcomes_, relating to the overall learning outcomes of the activity. At the end of each tutorial the student will have achieved something that relates concretely to the overall activity topic and goal.
 
-# Just the Docs Modifications
+New content should be placed into branches, and then merged into the `trunk` when complete. The `trunk` is locked, so that merges should always result in a buildable set of documentation.
+
+# Just the Docs Theme Modifications
 
 ## Colours and Themes
 
@@ -21,11 +23,13 @@ For the _CSS_ implementing the theme, the core implementation lives at '`_sass/c
 
 ## Custom Layouts
 
-The main changes to the Just the Docs theme are intended to provide visual compatability with MyBeckett. Currently these changes are provided as includes for both Just the Docs and Jekyll: both in the '`_includes`' subdirectory.
+The main changes to the Just the Docs theme are intended to provide visual compatibility with MyBeckett. Currently these changes are provided as includes for both Just the Docs and Jekyll: both in the '`_includes`' subdirectory.
 
 * `_includes/icons/expand.html`: Changes the default arrow for sub-sections from an outline arrow-head to a filled triangle, patterned on MyBeckett. The core SVG for this is included at '`assets/icons/expand.svg`'.
 * `_includes/components/lb_nav.html`: Uses the `lb-nav-list-expander` class (patterned on `nav-list-expander`), which allows a different link style to be applied to links in the sidebar. Also uses `lb-nav-list-link` (patterned on `nav-list-link`) for individual list items.
 * `_includes/components/lb_site_nav.html`: Builds the core collections, and uses `lb-nav-list-expander` to style the documentation within each collection.
 * `_includes/components/sidebar.html`: Forces a difference between link colours in the sidebar, and those on the main page. This allows the sidebar to use a dark theme background, but retain the standard colour for documentation links.
 
-All documentation by default uses the '`lbu`' layout, which will colour the content in the `_explanation`, `_howto`, `_reference` and `_tutorial` directories appropriately.
+All documentation by default uses the '`lbu`' layout, which will colour the content in the `_explanation`, `_howto`, `_reference` and `_tutorial` directories appropriately. 
+
+The colouration of the headers is done via the 'Just the Docs' inclusion of the '`anchor-headings`' plugin from [`jekyll-anchor-headings`](https://github.com/allejo/jekyll-anchor-headings). Using the '`headerAttrs`' parameter allows a suitable colouration of the header: without JavaScript or custom plugins (which are not allowed on GitHub pages).

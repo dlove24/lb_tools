@@ -6,11 +6,11 @@ nav_order: 2
 
 # Oscilloscopes 
 
-We have three main types of oscilloscopes in the labs and at the Helpdesk
+You will see one of three main types of oscilloscopes in the labs (and also available for loan at the Helpdesk)
 
-1. Older style stand-alone Rigol 'scopes, which do not have an integrated function generator or signal decoders. These are available from the Helpdesk.
+1. Older style stand-alone 'scopes by Rigol in the Analogue Lab (JG 109). Industrial uses of this style of 'scope are widespread, and these 'scopes can display and measure a wide range of different signal voltages. These 'scopes are usually used together with a separate function or signal generator. Loan 'scopes are available from the Helpdesk.
 2. Stand-alone touchscreen 'scopes by Tektronix, which also have an integrated signal generator. Those in JG 110 have two input chanel's, with more sophisticated four-chanel versions available from the Helpdesk.
-3. PicoScopes which require a Widows, Linux or macOS machine to use. Versions with four chanel's and signal generators are in the main engineering labs: with older two-chanel 'scopes available at the Helpdesk.
+3. PicoScopes which require a Widows, Linux or macOS machine to use. All the PicoScopes also have an integrated signal generator, signal decode capability, and work with both analogue and mixed signals. This makes the PicoScope ideal for debugging embedded systems and other development boards. Versions with four chanel's and signal generators are in the main engineering labs: with older two-chanel 'scopes available at the Helpdesk.
 
 ## Rigol DS1074Z Oscilloscopes and Function Generators
 
@@ -24,7 +24,7 @@ We have three main types of oscilloscopes in the labs and at the Helpdesk
 
 {: .note }
 
-On the lab machines PicoScope 7 is already installed for you. On your own machines, you will need to [download a copy of PicoScope](https://www.picotech.com/downloads) before you can use these oscilloscopes. Versions of PicoScope 7 are available for Windows, Linux, macOS and the Raspbery Pi's. 
+On the lab machines PicoScope 7 is already installed for you. On your own machines, you will need to [download a copy of PicoScope](https://www.picotech.com/downloads) before you can use these oscilloscopes. Versions of PicoScope 7 are available for Windows, Linux, macOS and the Raspberry Pi's. 
 
 ### PicoScope 3204MSO
 

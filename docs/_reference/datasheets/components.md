@@ -6,7 +6,7 @@ nav_order: 2
 
 # Electronic Component Datasheets
 
-The datasheets in this section are taken from the suppliers websites: and may differ slightly from the actual component in your hand. Many components are manufactured as copies, and in _most_ cases they work identically. If you have any questions, though, please ask.
+The datasheets come from the component suppliers websites: and may differ slightly from the actual component in your hand. Many manufacturers copy common components, often using the same name, and _usually_ they work identically. If you have any questions, though, please ask.
 
 ## Diodes
 
@@ -24,7 +24,7 @@ The datasheets in this section are taken from the suppliers websites: and may di
 
 * [Bourns 4116R LF 8-way 220R Isolated]({{ site.baseurl }}/assets/datasheets/components/4100R.pdf)
 
-### Thermoneters and Thermostats
+### Thermometers and Thermostats
 
 * [Maxim DS1631 Thermometer]({{ site.baseurl }}/assets/datasheets/components/DS1631.pdf)
 
@@ -37,7 +37,7 @@ The datasheets in this section are taken from the suppliers websites: and may di
 * [Multicomp Pro Round Green]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Green.pdf)
 * [Multicomp Pro Round Yellow]({{ site.baseurl }}/assets/datasheets/components/5mm_LED_Yellow.pdf)
 
-### RGB
+### Multicolour (RGB)
 
 * [Pro Signal PSG91924 (Common Cathode)]()
 
