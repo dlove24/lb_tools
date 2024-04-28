@@ -6,6 +6,4 @@ GPIO
 HOWTO
 IRQ
 LED
-Pico
 Thonny
-pydoc
