@@ -11,7 +11,9 @@ Content should be placed in the '`docs`' directory, in the appropriate sub-folde
 * `_reference`: Lists the basic facts needed in other activities. Examples of suitable material are links to the API or source code for a specific library, data-sheets for components or other devices, and papers and books from the academic literature expanding on a specific topic or area.
 * `_tutorial`: Will have a series of _learning outcomes_, relating to the overall learning outcomes of the activity. At the end of each tutorial the student will have achieved something that relates concretely to the overall activity topic and goal.
 
-# Just the Docs Modifications
+New content should be placed into branches, and then merged into the `trunk` when complete. The `trunk` is locked, so that merges should always result in a buildable set of documentation.
+
+# Just the Docs Theme Modifications
 
 ## Colours and Themes
 
