@@ -55,7 +55,7 @@ just_the_docs:
       name: Tutorials
       nav_fold: false
     howto:
-      name: How To's
+      name: How To
       nav_fold: false
     explanation:
       name: Explanations
