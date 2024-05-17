@@ -47,7 +47,7 @@ Good sources of advice are
    
 5.  **Names on the Outside, Functions on the Inside**. Pin numbers should be next to the IC they relate to, outside, and as close to the relevant wiring as possible. If you need to indicate the function of a pin, for example '`CLK`', those labels should go on the inside of the part.
    
-6.  **Use Value and Type Annotations Where Needed**. Label all parts, and give appropriate units. You should also prefer the conventional units where your drawing software permits, for instance '2.2KΩ' rather than '2K2R', or '10µF' instead of '10uF'.
+6.  **Use Value and Type Annotations Where Needed**. Label all parts, and [give appropriate units](https://metricsystem.net/derived-units/special-names/). You should also prefer the conventional units where your drawing software permits, for instance '2.2 kΩ' rather than '2K2R', or '10 µF' instead of '10uF'. Use a space between the quantity and the unit: you can also use a half-space to visually group the quantity and unit, but still show these are part of the same label.
 
 ### Final Checks
 
