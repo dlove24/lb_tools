@@ -30,6 +30,10 @@ heading_anchors: true
 # Set the variable for the page colour
 section_color: "#DD0000"
 
+# Switch to kramdown flavoured markdown, and enable math
+markdown: kramdown
+mathjax: true
+
 ##
 ## Page Categories
 ##
