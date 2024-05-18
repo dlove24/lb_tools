@@ -6,6 +6,8 @@ has_children: true
 
 # How To Draw Technical Diagrams for Notes and Documentation
 
+## Goals
+
 Technical diagrams and drawing are a key tool in all fields of engineering, enabling you to accurately communicate complex ideas. All forms of technical drawing also have standards, some of which you can find in the [Reference section](). However many standards are also complemented by guidelines specific to the organisation you are working for: or working with. Thus the How To's in the _Table of Content_ section below cover both the universal and 'local' (Leeds Beckett) standards.
 
 ## General Principles
