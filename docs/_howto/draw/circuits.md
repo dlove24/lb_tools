@@ -14,7 +14,7 @@ Good diagrams will also assist you in troubleshooting: and many of the [suggesti
 
 ## Further Reading
 
-Good sources of advice are
+Good sources of advice on drawing circuit diagrams can be found in
 
 - Paul Horowitz and Winfield Hill (2020). _The Art of Electronics_, Third Edition. Cambridge University Press. Appendix E.
 - Paul Scherz, Simon Monk (2016). _Practical Electronics for Inventors_, Fourth Edition. McGraw Hill. Chapter 7, Section 2.
@@ -47,7 +47,7 @@ Good sources of advice are
    
 5.  **Names on the Outside, Functions on the Inside**. Pin numbers should be next to the IC they relate to, outside, and as close to the relevant wiring as possible. If you need to indicate the function of a pin, for example '`CLK`', those labels should go on the inside of the part.
    
-6.  **Use Value and Type Annotations Where Needed**. Label all parts, and [give appropriate units](https://metricsystem.net/derived-units/special-names/). You should also prefer the conventional units where your drawing software permits, for instance '2.2 kΩ' rather than '2K2R', or '10 µF' instead of '10uF'. Use a space between the quantity and the unit: you can also use a half-space to visually group the quantity and unit, but still show these are part of the same label.
+6.  **Use Value and Type Annotations Where Needed**. Label all parts, and [give appropriate units](https://metricsystem.net/derived-units/special-names/). You should also prefer the conventional units where your drawing software permits, for instance '2.2 kΩ' rather than '2K2R', or '10 µF' instead of '10uF'. Use a space between the quantity and the unit: you can also use a half-space to visually group the quantity and unit, but still show these are part of the same label. The How To on  [SI units and quantities](/howto/write/units.html) covers the correct use of SI units at Leeds Beckett; follow this for all circuit diagrams where appropriate.
 
 ### Final Checks
 

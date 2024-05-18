@@ -21,4 +21,6 @@ Technical diagrams and drawing are a key tool in all fields of engineering, enab
 
 ## Further Reading
 
+- [**How to Use Units and Quantities in Equations and Calculations**](/howto/write/units.html). The style guide and How To for the correct use of SI units at Leeds Beckett.
 - [**The Metric System**](https://metricsystem.net). Covers the [fundamental units](https://metricsystem.net/si/base-units), [constants](https://metricsystem.net/si/defining-constants), [prefixes](https://metricsystem.net/prefixes/), and the most common [derived units](https://metricsystem.net/derived-units/special-names). There is also a useful [style guide](https://metricsystem.net/style-guide) which you should follow in all drawings.
+

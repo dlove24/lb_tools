@@ -14,7 +14,7 @@ Almost every equation you write, or calculation you carry out, will have an asso
 
 Good sources of advice are
 
-- [**The Metric System**](https://metricsystem.net). Covers the [fundamental units](https://metricsystem.net/si/base-units), [constants](https://metricsystem.net/si/defining-constants), [prefixes](https://metricsystem.net/prefixes/), and the most common [derived units](https://metricsystem.net/derived-units/special-names). There is also a useful [style guide](https://metricsystem.net/style-guide) which you should follow in all drawings.
+- [**The Metric System**](https://metricsystem.net). Covers the [fundamental units](https://metricsystem.net/si/base-units), [constants](https://metricsystem.net/si/defining-constants), [prefixes](https://metricsystem.net/prefixes/), and the most common [derived units](https://metricsystem.net/derived-units/special-names). There is also a useful [style guide](https://metricsystem.net/style-guide) which expands on the rules and principles given here.
 
 ## Using Units for Quantities in Calculations and Documentation
 
@@ -33,7 +33,7 @@ Good sources of advice are
     |:--------------------:|:-------------------------:|
     | 20 kiloW             | 20 kilowatts              |
     | 5 MOhms              | 5 megaohms                |
-    | 5 M Ohms             | 5 MΩ                      |
+    | 5 MOhms             | 5 MΩ                      |
 
 3. **Unit _Symbols_ are Usually in Lowercase: Unless Derived from a Name**. Most of the common units in electrical and electronic engineering derive from names (usually the discoverer of the effect or principle). For example amps ('A'), volts ('V'), ohms ('') and watts ('W'). The main exceptions are units of lengths ('m'), mass ('g'), and volume. For volumes, it is acceptable to write the litre symbols either as 'l' or 'L'. 
 
