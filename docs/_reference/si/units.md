@@ -102,7 +102,7 @@ SI Brochure, Table 4 (The 22 SI units with special names and symbols). (SI base 
 |                  | decibel           | dB              |                                                                                             |
 
 **Note:** Use the units of logarithmic ratio quantities, the neper, bel and decibel, to convey information on the nature of the logarithmic ratio quantity
-concerned. For natural logarithms the neper, Np, expresses values of quantities based on the neperian (or natural) logarithm, $$\ln = \log_e$$ . Similarly, the bel, B,  and the decibel, dB, expresses the values of logarithmic ratio quantities whose numerical values of the decadic logarithm, $$\lg = \log_{10}$$. The decibel and bel are related as
+concerned. For natural logarithms the neper, Np, expresses values of quantities based on the neperian (or natural) logarithm, $$\ln = \log_e$$ . Similarly, the bel, B,  and the decibel, dB, expresses the values of logarithmic ratio quantities whose numerical values of the decadic logarithm, $$\lg = \log_{10}$$. The units of decibel and bel relate as follows
 
 $$L_x = m\ \text{dB} = \left( \frac{m}{10} \right)\ \text{B}$$
 
