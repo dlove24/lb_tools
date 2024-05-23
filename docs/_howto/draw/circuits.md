@@ -10,7 +10,7 @@ nav_order: 2
 
 This How To covers how you should approach the drawing of circuit diagrams for notes, reports and other documentation. Many simulation tools, PCB design, and other analysis tools also require a circuit diagram. However for these tools your goal is on the output of the tool itself. This How To, by contrast, focuses on how you should approach drawing a schematic circuit for documentation and communication purposes.
 
-Good diagrams will also assist you in troubleshooting: and many of the [suggestions for troubleshooting](/trouble) also require clear diagrams. Drawing also reinforces your understanding of the circuit, again helping to make clear your intent to the reader (and building the foundational knowledge required to implement the diagram as required).
+Good diagrams will also assist you in troubleshooting: and many of the [suggestions for troubleshooting](/howto/trouble/index.html) also require clear diagrams. Drawing also reinforces your understanding of the circuit, again helping to make clear your intent to the reader (and building the foundational knowledge required to implement the diagram as required).
 
 ## Further Reading
 

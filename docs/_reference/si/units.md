@@ -33,16 +33,7 @@ units they define). pg. 128.
 | amount of substance        | $$n$$                     | mole      | mol    |
 | luminous intensity         | $$I_v$$                   | candela   | cd     |
 
-**Note:** The symbols for quantities
-are generally single letters
-of the Latin or Greek
-alphabets, printed in an
-italic font, and are
-_recommendations_.
-The symbols for units are
-printed in an upright
-(roman) font and are
-_mandatory_, see chapter 5
+**Note:** The symbols for quantities are normally single letters of the Latin or Greek alphabets, printed in an italic font, and are _recommendations_. The symbols are _mandatory_, printed in an upright font (see [_How to Use Units and Quantities in Equations and Calculations_](howto/write/units.html)).
 
 SI Brochure, Table 2. (SI base units). pg. 130.
 

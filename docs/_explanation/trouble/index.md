@@ -12,7 +12,7 @@ Inevitably, solutions seldom work first time. All the circuits, code and other _
 
 > Troubleshooters must be able to determine the cause or causes of a problem simply by examining its effects. Rarely does the source of a problem directly present itself for all to see. Cause/effect relationships are often complex, even for seemingly simple systems, and often the proficient troubleshooter is regarded by others as something of a miracle-worker for their ability to quickly discern the root cause of a problem. While some people are gifted with a natural talent for troubleshooting, it is a skill that can be learned like any other.
 
-Learning to troubleshoot takes both time and experience. The more situations you see where things don't quite work, and the more experience you have of finding solutions will develop this core skill. 
+Learning to troubleshoot takes both time and experience. You will develop core troubleshooting skills by practice, examining situations where things don't work.
 
 As well as exposing yourself to problems, there are also key strategies that guide your attempts to find solutions. In _Troubleshooting_, linked below, Tony Kuphaldt offers a valuable tour of key troubleshooting strategies, based on his own experience developing these skills for students in engineering courses. These strategies are also distilled into the [_Troubleshooting_ How To]() for quick reference.
 
