@@ -14,7 +14,7 @@ Good diagrams will also assist you in troubleshooting: and many of the [suggesti
 
 ## Further Reading
 
-Good sources of advice on drawing circuit diagrams can be found in
+Good sources of advice on drawing circuit diagrams can are in
 
 - Paul Horowitz and Winfield Hill (2020). _The Art of Electronics_, Third Edition. Cambridge University Press. Appendix E.
 - Paul Scherz, Simon Monk (2016). _Practical Electronics for Inventors_, Fourth Edition. McGraw Hill. Chapter 7, Section 2.

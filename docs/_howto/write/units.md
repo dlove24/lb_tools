@@ -35,7 +35,7 @@ Good sources of advice are
     | 5 MOhms              | 5 megaohms                |
     | 5 MOhms             | 5 MΩ                      |
 
-3. **Unit _Symbols_ are Usually in Lowercase: Unless Derived from a Name**. Most of the common units in electrical and electronic engineering derive from names (usually the discoverer of the effect or principle). For example amps ('A'), volts ('V'), ohms ('') and watts ('W'). The main exceptions are units of lengths ('m'), mass ('g'), and volume. For volumes, it is acceptable to write the litre symbols either as 'l' or 'L'. 
+3. **Unit _Symbols_ are Usually in Lowercase: Unless Derived from a Name**. Most of the common units in electrical and electronic engineering derive from names (usually the discoverer of the effect or principle). For example the ampere ('A'), volt ('V'), ohm ('') and watt ('W'). The main exceptions are units of lengths ('m'), mass ('g'), and volume. For volumes, it is acceptable to write the litre symbols either as 'l' or 'L' (although strictly the litre is _not_ an SI unit). 
 
 4. **Prefixes for Names and Symbols are in Powers of 10, and Never Mixed**. Use the [Correct Prefix](https://metricsystem.net/prefixes) for Unit Names and Symbols, with the Correct Spelling and Case. Thus unit names must always have the prefixed spelled out in full, and unit symbols should use the correct prefix contraction and case. Don't mix prefix names and symbols, for instance it is always 'kg' or 'kilogram' for a mass, and never 'kilog'.
 
