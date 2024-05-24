@@ -18,8 +18,8 @@ nav_order: 2
 | Avogadro constant                    | $$N_A$$                    | $$6.022\ 140\ 76 \times 10^{23}$$   | $$\text{mol}^{−1}$$          |
 | luminous efficacy                    | $$K_{cd}$$                 | $$683$$                             | $$\text{lm}\ \text{W}^{−1}$$ |
 
-SI Brochure, Table 1 (The seven defining constants of the SI and the seven corresponding
-units they define). pg. 128.
+_The International System of Units (SI) (2019) Bureau International des Poids et Mesures. Table 1 (The Seven Defining Constants of the SI and the Seven Corresponding
+Units They Define). pg. 128._{: .grey}
 
 ## Base Quantities and Units
 
@@ -33,9 +33,11 @@ units they define). pg. 128.
 | amount of substance        | $$n$$                     | mole      | mol    |
 | luminous intensity         | $$I_v$$                   | candela   | cd     |
 
+_The International System of Units (SI) (2019) Bureau International des Poids et Mesures. Table 2. (SI Base Units). pg. 130._{: .grey}
+
 **Note:** The symbols for quantities are normally single letters of the Latin or Greek alphabets, printed in an italic font, and are _recommendations_. The symbols are _mandatory_, printed in an upright font (see [_How to Use Units and Quantities in Equations and Calculations_](howto/write/units.html)).
 
-SI Brochure, Table 2. (SI base units). pg. 130.
+
 
 ## Derived SI Units
 
@@ -66,11 +68,7 @@ SI Brochure, Table 2. (SI base units). pg. 130.
 | dose equivalent                     | sievert               | Sv = $$\text{m}^2\ \text{s}^{−2}$$                              | $$\frac{\text{J}}{\text{kg}}$$            |
 | catalytic activity                  | katal                 | kat = $$\text{mol}\ \text{s}^{−1}$$                             |                                           |
   
-  
-
-
-
-SI Brochure, Table 4 (The 22 SI units with special names and symbols). (SI base units). pg. 138.
+_The International System of Units (SI) (2019) Bureau International des Poids et Mesures. Table 4 (The 22 SI Units with Special Names and Symbols). (SI base units). pg. 138._{: .grey}
 
 ### Non-SI Units Accepted for Use
 
@@ -92,9 +90,10 @@ SI Brochure, Table 4 (The 22 SI units with special names and symbols). (SI base 
 | ratio quantities | bel               | B               |                                                                                             |
 |                  | decibel           | dB              |                                                                                             |
 
+_The International System of Units (SI) (2019) Bureau International des Poids et Mesures. Table 8 (Non-SI Units Accepted for use With The SI Units). pg. 138._{: .grey}
+
 **Note:** Use the units of logarithmic ratio quantities, the neper, bel and decibel, to convey information on the nature of the logarithmic ratio quantity
 concerned. For natural logarithms the neper, Np, expresses values of quantities based on the neperian (or natural) logarithm, $$\ln = \log_e$$ . Similarly, the bel, B,  and the decibel, dB, expresses the values of logarithmic ratio quantities whose numerical values of the decadic logarithm, $$\lg = \log_{10}$$. The units of decibel and bel relate as follows
 
 $$L_x = m\ \text{dB} = \left( \frac{m}{10} \right)\ \text{B}$$
 
-SI Brochure, Table 8 (Non-SI units accepted for use with the SI unit). (SI base units). pg. 138
