@@ -13,6 +13,6 @@ Inevitably, solutions seldom work first time. All the circuits, code and other _
 
 Learning to troubleshoot takes both time and experience. You will develop core troubleshooting skills by practice, examining situations where things don't work.
 
-As well as exposing yourself to problems, there are also key strategies that guide your attempts to find solutions. In _Troubleshooting_, linked below, Tony Kuphaldt offers a valuable tour of key troubleshooting strategies, based on his own experience developing these skills for students in engineering courses. These strategies are also distilled into the [_Troubleshooting_ How To]() for quick reference.
+As well as exposing yourself to problems, there are also key strategies that guide your attempts to find solutions. In _Troubleshooting_, linked below, Tony Kuphaldt offers a valuable tour of key troubleshooting strategies, based on his own experience developing these skills for students in engineering courses. These strategies are also distilled into the [_Troubleshooting_ How To](/howto/trouble/index.html#troubleshooting) for quick reference.
 
-* [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.](/media/pdf/LEC_TBL.pdf)
+* ![PDF File](/media/icons/file-pdf.svg){: height="20px" width="20px"} [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.](/media/pdf/LEC_TBL.pdf)
