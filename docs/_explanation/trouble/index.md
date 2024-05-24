@@ -1,7 +1,6 @@
 ---
 title: Troubleshooting
 nav_order: 1
-has_children: true
 ---
 
 # The Art and Skill of Troubleshooting
