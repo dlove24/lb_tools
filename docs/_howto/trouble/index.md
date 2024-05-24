@@ -11,7 +11,7 @@ Solutions don't usually work first time, and this How To covers the core checks 
 
 ## Further Reading
 
-* ![PDF File](/assets/icons/file-pdf.svg){: height="20px" width="20px"} [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.](/media/pdf/LEC_TBL.pdf)
+* ![PDF File]({{ site.baseurl }}/assets/icons/file-pdf.svg){: height="20px" width="20px"} [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.]({{ site.baseurl }}/media/pdf/LEC_TBL.pdf)
 
 ## Questions to Ask Before Proceeding
 
