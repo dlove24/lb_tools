@@ -6,4 +6,4 @@ has_children: true
 
 # Tools and Equipment
 
-Most of the information in this section links to the common equipment in the engineering labs. You can also find copies of the manufactures handbooks in the sections below, which cover many common questions.
+This section links to official references for the common equipment in the engineering labs. You can find copies of the manufactures handbooks in the sections below, which cover many common questions. Guidance for the use of the equipment listed is in the [How To section](/howto/tools).
