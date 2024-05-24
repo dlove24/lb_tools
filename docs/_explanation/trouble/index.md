@@ -15,4 +15,4 @@ Learning to troubleshoot takes both time and experience. You will develop core t
 
 As well as exposing yourself to problems, there are also key strategies that guide your attempts to find solutions. In _Troubleshooting_, linked below, Tony Kuphaldt offers a valuable tour of key troubleshooting strategies, based on his own experience developing these skills for students in engineering courses. These strategies are also distilled into the [_Troubleshooting_ How To](/howto/trouble/index.html#troubleshooting) for quick reference.
 
-* ![PDF File](/media/icons/file-pdf.svg){: height="20px" width="20px"} [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.](/media/pdf/LEC_TBL.pdf)
+* ![PDF File](/assets/icons/file-pdf.svg){: height="20px" width="20px"} [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.](/media/pdf/LEC_TBL.pdf)

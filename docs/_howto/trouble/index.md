@@ -11,7 +11,7 @@ Solutions don't usually work first time, and this How To covers the core checks 
 
 ## Further Reading
 
-* ![PDF File](/media/icons/file-pdf.svg){: height="20px" width="20px"} [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.](/media/pdf/LEC_TBL.pdf)
+* ![PDF File](/assets/icons/file-pdf.svg){: height="20px" width="20px"} [Troubleshooting. _Lessons in Electric Circuits_, Reference, Volume 5.](/media/pdf/LEC_TBL.pdf)
 
 ## Questions to Ask Before Proceeding
 
@@ -65,11 +65,11 @@ If the above does not isolate the problem, complete the following and restart wi
 
 - [ ] _Check for ground faults_{: .green}. Visually, and with a multimeter, check that all wires, outputs and conductors are correctly grounded. With a multimeter, check metal casings, paths and connections for faults which are (temporarily) giving you a short circuit.
 
-- [ ] _Power supply problems_{: .green}. Use a multimeter or oscilloscope to check the inputs voltage and current is correct. In the case of AC power, check the expected frequency and phase matches the system requirements. Use a multimeter to check that fuses and other disconnecting components are working correctly. 
+- [ ] _Power supply problems_{: .green}. Use a multimeter or oscilloscope to check the inputs voltage and current is correct. In the case of AC power, check the expected frequency and phase matches the system requirements. Use a multimeter to check that fuses and other disconnecting components are working correctly.
 
 - [ ] _Active components_{: .green}. Check that your static handling procedures are correct, and that the you have no damaged components though improper handling. Check datasheets for diagrams, tables and graphs of expected behaviour, and then verify your components against these, to check components have not aged or failed.
 
-- [ ]  _Passive components_{: .green}. Use an LCR bridge or multimeter to check the component value, and functionality. Check the following, in the following order of likely failure 
+- [ ]  _Passive components_{: .green}. Use an LCR bridge or multimeter to check the component value, and functionality. Check the following, in the following order of likely failure
 
   - Capacitors (shorted), especially _electrolytic_ capacitors. The paste electrolyte tends to lose moisture with age, leading to failure. Over-voltage transients puncture thin dielectric layers.
   - Diodes open (rectifying diodes) or shorted (Zener diodes).
@@ -81,14 +81,14 @@ If the above does not isolate the problem, complete the following and restart wi
 **Check the following, in the order listed. Make sure you have completed the [_Triage checklist_](#triage-checklist) first**.
 
 - [ ] _Wiring problems_{: .green}. Check for assembly errors, such as connection to the wrong point or poor connector fabrication. Double-check breadboard connections against the circuit diagram.
-  
+
 - [ ] _Power supply problems_{: .green}. Use a multimeter or oscilloscope to check the inputs voltage and current is correct. In the case of AC power, check the expected frequency and phase matches the system requirements. Use a multimeter to check that fuses and other disconnecting components are working correctly. Check that the circuit load is not larger than expected, resulting in overloading and subsequent failure of power supplies.
 
-- [ ] _Defective components_{: .green}. Check _all_ components --- active or passive --- against expected values and behaviour. Check components against datasheets, especially that your pin connections are correct _for the component you are testing_ (not all 'identical' components have the same pin layout). Check datasheets for diagrams, tables and graphs of expected behaviour, and then verify your components against these.  
+- [ ] _Defective components_{: .green}. Check _all_ components --- active or passive --- against expected values and behaviour. Check components against datasheets, especially that your pin connections are correct _for the component you are testing_ (not all 'identical' components have the same pin layout). Check datasheets for diagrams, tables and graphs of expected behaviour, and then verify your components against these.
 
 - [ ] _Improper system configuration_{: .green}. Check the inputs and output of microcontrollers and microprocessors, using a multimeter or oscilloscope. Look for voltage and timing mismatches, signal propagation delays, PWM outputs and other improper behaviour from the program code. Check the tolerance of components for power ratings, impedance mismatches, and other limits. Check that components with configuration "jumpers" or switches are "programmed" to give the expected behaviour. Check that you have calibrated sensors, instruments, and controlling mechanisms, and that the calibration procedures are correct.
 
-- [ ] _Design error_{: .green}. Check the fundamental theory of operation for your circuit, and that this solution is appropriate. Ideally, cross-check this design against theory, using simulations to identify possible issues and problems. Check the outputs of the simulation and theory match the output of the system you are testing. 
+- [ ] _Design error_{: .green}. Check the fundamental theory of operation for your circuit, and that this solution is appropriate. Ideally, cross-check this design against theory, using simulations to identify possible issues and problems. Check the outputs of the simulation and theory match the output of the system you are testing.
 
 ## Final Checks
 

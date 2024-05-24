@@ -4,7 +4,7 @@ parent: Tools and Equipment
 nav_order: 2
 ---
 
-# Oscilloscopes 
+# Oscilloscopes
 
 You will see one of three main types of oscilloscopes in the labs (and also available for loan at the Helpdesk)
 
@@ -14,20 +14,20 @@ You will see one of three main types of oscilloscopes in the labs (and also avai
 
 ## Rigol DS1074Z Oscilloscopes and Function Generators
 
-* ![PDF File](/media/icons/file-pdf.svg){: height="20px" width="20px"} [Rigol DS1000Z Series User Guide](/assets/tools/Rigol-DS1000Z-UserGuide.pdf)
+* ![PDF File](/assets/icons/file-pdf.svg){: height="20px" width="20px"} [Rigol DS1000Z Series User Guide](/media/tools/Rigol-DS1000Z-UserGuide.pdf)
 
 ## Tektronix MSO22 Oscilloscopes
 
-* ![PDF File](/media/icons/file-pdf.svg){: height="20px" width="20px"} [Tektronix 2 Series Mixed Signal Oscilloscope User Guide](/assets/tools/2SeriesMSO_Help_077171602.pdf)
+* ![PDF File](/assets/icons/file-pdf.svg){: height="20px" width="20px"} [Tektronix 2 Series Mixed Signal Oscilloscope User Guide](/media/tools/2SeriesMSO_Help_077171602.pdf)
 
 ## PicoScopes
 
 {: .note }
 
-On the lab machines PicoScope 7 is already installed for you. On your own machines, you will need to [download a copy of PicoScope](https://www.picotech.com/downloads) before you can use these oscilloscopes. Versions of PicoScope 7 are available for Windows, Linux, macOS and the Raspberry Pi's. 
+On the lab machines PicoScope 7 is already installed for you. On your own machines, you will need to [download a copy of PicoScope](https://www.picotech.com/downloads) before you can use these oscilloscopes. Versions of PicoScope 7 are available for Windows, Linux, macOS and the Raspberry Pi's.
 
 ### PicoScope 3204MSO
 
-There are 15 of the [PicoScope 3204MSO]({{ site.baseurl }}/assets/tools/picoscope-3000d-series-data-sheet.pdf) available from the Helpdesk. These are two chanel scopes, with 16-chanel digital input chanel's and one signal generator. 
+There are 15 of the [PicoScope 3204MSO]({{ site.baseurl }}/media/tools/picoscope-3000d-series-data-sheet.pdf) available from the Helpdesk. These are two chanel scopes, with 16-chanel digital input chanel's and one signal generator.
 
-* ![PDF File](/media/icons/file-pdf.svg){: height="20px" width="20px"} [PicoScope 3204MSO User Guide](/assets/tools/PicoScope3000DSeriesUsersGuideEN.pdf) 
+* ![PDF File](/assets/icons/file-pdf.svg){: height="20px" width="20px"} [PicoScope 3204MSO User Guide](/media/tools/PicoScope3000DSeriesUsersGuideEN.pdf)
