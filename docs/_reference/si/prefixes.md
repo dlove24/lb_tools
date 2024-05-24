@@ -36,4 +36,4 @@ nav_order: 2
 | ronto            | r             | $$10^{-27}$$        | 0.000 000 000 000 000 000 000 000 001     |
 | quecto           | q             | $$10^{-30}$$        | 0.000 000 000 000 000 000 000 000 000 001 |
 
-_The International System of Units (SI) (2019) Bureau International des Poids et Mesures. Table 7 (SI Prefixes). pg. 143._{: .grey}
+_The International System of Units (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. Table 7 (SI Prefixes). pg. 143._{: .grey}

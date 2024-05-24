@@ -8,7 +8,7 @@ has_children: true
 
 ## Overview
 
-This section covers the SI, or _International Systems of Units_. The SI system defines a coherent set of units, based on [seven fundamental constants](/reference/si/constants.html). Replacing older unit systems (@SI:2018) 
+This section covers the SI, or _International Systems of Units_. The SI system defines a coherent set of units, based on [seven fundamental constants](/reference/si/constants.html). Replacing older unit systems (The International System of Units (SI) (2019)) 
 
 > The International System of Units, the SI, has been used around the world as the preferred system of units, the basic language for science, technology, industry and trade since it was established in 1960 by a resolution at the 11th meeting of the Conférence Générale des Poids et Mesures, the CGPM (known in English as the General Conference on Weights and Measures).
 
@@ -19,3 +19,7 @@ Alongside the units, the SI systems also defines a standard set of named [prefix
 ## Use Within Engineering and Science in the UK
 
 Within the UK, the SI system forms the default unit for science and engineering. Unless you are dealing with historic artefacts, _do not use_ the UK [historic units](): even if they are still common in some other areas of the world. For all drawings, calculations, and other technical writing the SI system is the _only_ unit system you should use by choice. 
+
+## References
+
+* _The International System of Units_ (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. [[online](https://www.bipm.org/en/publications/si-brochure)].
