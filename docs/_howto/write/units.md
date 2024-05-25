@@ -1,5 +1,5 @@
 ---
-title: Using Correct Quantities and Units 
+title: Using Correct Quantities and Units
 parent: Write
 nav_order: 2
 ---
@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Goals
 
-Almost every equation you write, or calculation you carry out, will have an associated _unit_ related to a [physical constant](/reference/si/constants.html) such as time, length, or frequency. Using units correctly conveys the essential meaning of your calculations, and so gives meaning to the numerical _quantity_ you give. Since the units are so important to many areas of science and engineering, you should follow the conventions outlined here convey this meaning with clarity and accuracy.
+Almost every equation you write, or calculation you carry out, will have an associated _unit_ related to a [physical constant]({{ site.baseurl }}/reference/si/constants.html) such as time, length, or frequency. Using units correctly conveys the essential meaning of your calculations, and so gives meaning to the numerical _quantity_ you give. Since the units are so important to many areas of science and engineering, you should follow the conventions outlined here convey this meaning with clarity and accuracy.
 
 ## Further Reading
 
@@ -43,9 +43,9 @@ Good sources of advice are
     |        5 MOhms        |      5 megaohms       |
     |        5 MOhms        |         5 MΩ          |
 
-4. **Unit _Symbols_ are Usually in Lowercase: Unless Derived from a Name**. Most of the common units in electrical and electronic engineering derive from names (usually the discoverer of the effect or principle). For example the ampere (A), volt (V), ohm (Ω) and watt (W). The main exceptions are units of lengths (m), mass (g), and volume. For volumes, it is acceptable to write the litre symbols either as 'l' or 'L' (although note the litre is [_not_ an SI unit](/reference/si/units.html#derived-si-units)). A list of SI standard and derived units is [in the reference section](/reference/si/units.html).
+4. **Unit _Symbols_ are Usually in Lowercase: Unless Derived from a Name**. Most of the common units in electrical and electronic engineering derive from names (usually the discoverer of the effect or principle). For example the ampere (A), volt (V), ohm (Ω) and watt (W). The main exceptions are units of lengths (m), mass (g), and volume. For volumes, it is acceptable to write the litre symbols either as 'l' or 'L' (although note the litre is [_not_ an SI unit]({{ site.baseurl }}/reference/si/units.html#derived-si-units)). A list of SI standard and derived units is [in the reference section]({{ site.baseurl }}/reference/si/units.html).
 
-5. **Prefixes for Names and Symbols are in Powers of 10, and Never Mixed**. Use the [correct prefix](/reference/si/prefixes.html) for Unit Names and Symbols, with the Correct Spelling and Case. Thus unit names must always have the prefixed spelled out in full, and unit symbols should use the correct prefix contraction and case. Don't mix prefix names and symbols, for instance it is always 'kg' or 'kilogram' for a mass, and never 'kilog'.
+5. **Prefixes for Names and Symbols are in Powers of 10, and Never Mixed**. Use the [correct prefix]({{ site.baseurl }}/reference/si/prefixes.html) for Unit Names and Symbols, with the Correct Spelling and Case. Thus unit names must always have the prefixed spelled out in full, and unit symbols should use the correct prefix contraction and case. Don't mix prefix names and symbols, for instance it is always 'kg' or 'kilogram' for a mass, and never 'kilog'.
 
     Always express the associated quality in powers of 10: and ideally with the exponent divisible by three. For example '$$2 \times 10^{-3}\, \text{A}$$' not '$$20 \times 10^{-2}\, \text{A}$$'. This also applies to uncertainties, errors and other qualification you might make to the quantity.
 
