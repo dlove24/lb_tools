@@ -1,0 +1,2 @@
+# Jekyll requires both the metadata and the page title: so this rule needs to be disabled
+MDO25: false
