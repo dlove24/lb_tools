@@ -1,10 +1,10 @@
 ---
-title: Standard and Derived Units
+title: Base and Derived Units
 parent: The SI System
 nav_order: 2
 ---
 
-# Reference for SI Standard and Recognised Derived Units
+# Reference for SI Base and Recognised Derived Units
 
 ## Defining Constants and Corresponding Units
 
