@@ -30,6 +30,10 @@ heading_anchors: true
 # Set the variable for the page colour
 section_color: "#DD0000"
 
+# Switch to kramdown flavoured markdown, and enable math
+markdown: kramdown
+mathjax: true
+
 ##
 ## Page Categories
 ##
@@ -55,7 +59,7 @@ just_the_docs:
       name: Tutorials
       nav_fold: false
     howto:
-      name: How To's
+      name: How To
       nav_fold: false
     explanation:
       name: Explanations
