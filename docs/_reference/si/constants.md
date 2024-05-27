@@ -18,7 +18,7 @@ nav_order: 2
 | Avogadro constant                    | $$N_A$$                    | $$6.022\ 140\ 76 \times 10^{23}$$   | $$\text{mol}^{−1}$$          |
 | luminous efficacy                    | $$K_{cd}$$                 | $$683$$                             | $$\text{lm}\ \text{W}^{−1}$$ |
 
-_The International System of Units (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. Table 1 (The Seven Defining Constants of the SI and the Seven Corresponding
+_SI Brochure: The International System of Units (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. Table 1 (The Seven Defining Constants of the SI and the Seven Corresponding
 Units They Define). pg. 128._{: .grey}
 
 ## See Also
