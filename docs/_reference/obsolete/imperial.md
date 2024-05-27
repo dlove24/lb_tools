@@ -8,9 +8,9 @@ parent: Obsolete Standards
 
 ## Summary
 
-The _imperial system of units_ defines the historic unit system of the UK and Commonwealth, as laid out in the _Weights and Measures Act_ 1824. Since 1985, UK government redefined the imperial system of units in terms of [SI units](/reference/si/index.html) (Weights and Measures Act, 1985). This completed the movement from the imperial system of units, to the SI system of units in the UK. Consequently all modern technical and scientific work **should** be undertaken in SI units, and the data in this section _should_ be of historic interest only.
+The _imperial system of units_ defines the historic unit system of the UK and Commonwealth, as laid out in the _Weights and Measures Act_ 1824. Since 1985, UK government redefined the imperial system of units in terms of [SI units]({{ site.baseurl }}/reference/si/index.html) (Weights and Measures Act, 1985). This completed the movement from the imperial system of units, to the SI system of units in the UK. Consequently all modern technical and scientific work **should** be undertaken in SI units, and the data in this section _should_ be of historic interest only.
 
-However you will find many of these units in common use within the UK, especially in relation to civil engineering and building standards. Also note that despite sharing common names, and history, the units defined in the [customary system of the United States](https://web.archive.org/web/20061126120208/http://ts.nist.gov/WeightsAndMeasures/Publications/upload/h4402_appenc.pdf) may be _different_ to the 'same' British imperial units. 
+However you will find many of these units in common use within the UK, especially in relation to civil engineering and building standards. Also note that despite sharing common names, and history, the units defined in the [customary system of the United States](https://web.archive.org/web/20061126120208/http://ts.nist.gov/WeightsAndMeasures/Publications/upload/h4402_appenc.pdf) may be _different_ to the 'same' British imperial units.
 
 All data in this section derives from the _The Units of Measurement Regulations_ (1995), as the latest statutory instrument defining the relationship between SI and British imperial units. Note that later statutory instruments update the definition of the SI units metre and kilogram, but do not change the fundamental values.
 
@@ -28,7 +28,7 @@ All data in this section derives from the _The Units of Measurement Regulations_
 | mile               | kilometre                     | 1.609344 kilometres   |
 | nautical mile (UK) | metre                         | 1853 metres           |
 
-## Area                                                                     
+## Area
 
 | **Imperial unit** | **Corresponding Metric Unit** | **Metric Equivalent**            |
 |-------------------|-------------------------------|----------------------------------|
@@ -50,13 +50,13 @@ All data in this section derives from the _The Units of Measurement Regulations_
 | gallon            | litre                         | 4.54609 litres         |
 
 
-## Pressure                                                                 
+## Pressure
 
 | **Imperial unit** | **Corresponding Metric Unit** | **Metric Equivalent** |
 |-------------------|-------------------------------|-----------------------|
 | inch of water     | pascal                        | 249.08891 pascals     |
 
-## Mass                                                                     
+## Mass
 
 | **Imperial unit**   | **Corresponding Metric Unit** | **Metric Equivalent** |
 |---------------------|-------------------------------|-----------------------|
@@ -71,14 +71,14 @@ All data in this section derives from the _The Units of Measurement Regulations_
 | hundredweight       | kilogram                      | 50.80234544 kilograms |
 | ton                 | tonne                         | 1.0160469088 tonnes   |
 
-## Force                                                                    
+## Force
 
 | **Imperial unit** | **Corresponding Metric Unit** | **Metric Equivalent**        |
 |-------------------|-------------------------------|------------------------------|
 | pound-force       | newton                        | 4.4482216152605 newtons      |
 | ton-force         | kilonewton                    | 9.96401641818352 kilonewtons |
 
-## Volume                                                                   
+## Volume
 
 | **Imperial unit** | **Corresponding Metric Unit** | **Metric Equivalent**       |
 |-------------------|-------------------------------|-----------------------------|
@@ -94,7 +94,7 @@ All data in this section derives from the _The Units of Measurement Regulations_
 |-------------------|-------------------------------|------------------------------|
 | horsepower        | kilowatt                      | 0.74569987158227022 kilowatt |
 
-## Temperature                                                              
+## Temperature
 
 | **Imperial unit**  | **Corresponding Metric Unit** | **Metric Equivalent** |
 |--------------------|-------------------------------|-----------------------|
@@ -104,11 +104,11 @@ To convert degree Fahrenheit, $$°F$$, into degree Celsius, $$°C$$
 
 $$°C = \frac{\left( °F - 32 \right)}{1.8}$$
 
-To convert degree Celsius, $$°C$$, into degree Fahrenheit, $$°F$$ 
+To convert degree Celsius, $$°C$$, into degree Fahrenheit, $$°F$$
 
 $$°F = \left(°C \times 1.8\right) + 32$$
 
-## Energy                                                                   
+## Energy
 
 | **Imperial unit**    | **Corresponding Metric Unit** | **Metric Equivalent**       |
 |----------------------|-------------------------------|-----------------------------|
@@ -116,13 +116,13 @@ $$°F = \left(°C \times 1.8\right) + 32$$
 | British thermal unit | kilojoule                     | 1.05505585257348 kilojoules |
 | therm                | megajoule                     | 105.505585257348 megajoules |
 
-## Illuminance                                                              
+## Illuminance
 
 | **Imperial unit** | **Corresponding Metric Unit** | **Metric Equivalent** |
 |-------------------|-------------------------------|-----------------------|
 | foot candle       | lux                           | 10.763910416709 lux   |
 
-## Speed                                                                    
+## Speed
 
 | **Imperial unit** | **Corresponding Metric Unit** | **Metric Equivalent**     |
 |-------------------|-------------------------------|---------------------------|
@@ -131,6 +131,6 @@ $$°F = \left(°C \times 1.8\right) + 32$$
 
 ## References
 
-* _Weights and Measures Act 1985_ (c.72) London: HMSO. [Online]. Available from: <https://www.legislation.gov.uk/ukpga/1985/72/2023-05-03?view=plain>. [Accessed 24 June 2024]. 
+* _Weights and Measures Act 1985_ (c.72) London: HMSO. [Online]. Available from: <https://www.legislation.gov.uk/ukpga/1985/72/2023-05-03?view=plain>. [Accessed 24 June 2024].
 
-* _The Units of Measurement Regulations 1995_. [Online]. (1995) SI 1995/1804. London: HMSO. Available from: <https://www.legislation.gov.uk/uksi/1995/1804/made>. [Accessed 24 June 2024]. 
+* _The Units of Measurement Regulations 1995_. [Online]. (1995) SI 1995/1804. London: HMSO. Available from: <https://www.legislation.gov.uk/uksi/1995/1804/made>. [Accessed 24 June 2024].

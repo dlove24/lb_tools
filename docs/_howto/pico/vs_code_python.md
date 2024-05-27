@@ -8,9 +8,9 @@ nav_order: 2
 
 ## Goals
 
-New projects for MicroPython require you to set-up the virtual environment: and you may want to install some useful tools available in Visual Studio Code. These extra tools will help you manage the [code review and submission]() process, as well as developing the required documentation. 
+New projects for MicroPython require you to set-up the virtual environment: and you may want to install some useful tools available in Visual Studio Code. These extra tools will help you manage the [code review and submission]() process, as well as developing the required documentation.
 
-This How To covers only the goals related to the set-up of the MicroPython project itself. For more details of How To set-up the support tools [see the submission How to section](/howto/submission/index.html), and [the specific tools for MicroPython](/howto/submission/submit_python.html). For examples of how the LB Development Board can be used, [see the tutorials](/tutorial/platforms/index.html).
+This How To covers only the goals related to the set-up of the MicroPython project itself. For more details of How To set-up the support tools [see the submission How to section]({{ site.baseurl }}/howto/submission/index.html), and [the specific tools for MicroPython]({{ site.baseurl }}/howto/submission/submit_python.html). For examples of how the LB Development Board can be used, [see the tutorials]({{ site.baseurl }}/tutorial/platforms/index.html).
 
 ## Installing MicroPython
 
@@ -28,19 +28,19 @@ This How To covers only the goals related to the set-up of the MicroPython proje
 
 We now need to talk to the Pico-W, and get to the point where we can install programs onto it. First of all create a folder (in OneDrive on Windows and in your Home directory on Linux) to put your Python code into. Then we need to make sure we have an appropriate integrated development environment (IDE) to write your code in. We are going to use Microsoft Visual Studio Code (VSCode) as a common environment --- this is used by Raspberry Pi foundation for C/C++ SDK programming. [^up4]. The steps below are how to make VScode work with micropython.
 
-1. Microsoft [Visual Studio Code](https://code.visualstudio.com/) which is the IDE that is used for programming the Pico using the C/C++ SDK. This can be found on all engineering lab PCs. It is free and can also be installed on your own computer and comes for Windows, MAC or Linux. There is also a limited web based [client](https://vscode.dev/) which maybe useful if you want to just edit code. 
+1. Microsoft [Visual Studio Code](https://code.visualstudio.com/) which is the IDE that is used for programming the Pico using the C/C++ SDK. This can be found on all engineering lab PCs. It is free and can also be installed on your own computer and comes for Windows, MAC or Linux. There is also a limited web based [client](https://vscode.dev/) which maybe useful if you want to just edit code.
 
-2. Before we can use VSCode we need to install some extensions so that microPython will run --- go to the extensions tab on left-hand menu ![image](/home/halliw02/git/pico_tutorial/chapters/media/extensions.png){height="4mm"} (or Ctrl-Shift-X), and search for MicroPico as shown in @fig:vscodeext. If it is not installed it will show a blue Install as highlighted in @fig:vscodeext. You will also need to ensure you have Python, Pylance and IntelliCode extensions.
+2. Before we can use VSCode we need to install some extensions so that microPython will run --- go to the extensions tab on left-hand menu ![image]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/extensions.png){height="4mm"} (or Ctrl-Shift-X), and search for MicroPico as shown in @fig:vscodeext. If it is not installed it will show a blue Install as highlighted in @fig:vscodeext. You will also need to ensure you have Python, Pylance and IntelliCode extensions.
 
-![Visual Studio Code Extensions](/home/halliw02/git/pico_tutorial/chapters/media/vscodext.png){#fig:vscodeext width="85%"}
+![Visual Studio Code Extensions]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/vscodext.png){#fig:vscodeext width="85%"}
 
 3. Now you need to open the folder you created to store your Python files in --- using File \> Open Folder. Then to ensure we are using MicroPython open the command palette on VSCode (Ctrl-Shift-P or View \> Command Palette) and select MicroPico: Configure project. Provided your Pico board is connected to PC and has been flashed with MicroPython this will open in the bottom pane the python console on the Raspberry Pi Pico as shown in @fig:console
 
-![MicroPython Console](/home/halliw02/git/pico_tutorial/chapters/media/picoconsole.png){#fig:console}
+![MicroPython Console]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/picoconsole.png){#fig:console}
 
 ## A Simple Circuit
 
-This is about the simplest circuit possible, and serves as a good check that the whole tool-chain is working as expected, and that you can drive simple outputs. It is often used as the embedded systems equivalent of 'Hello World', and you will see this a number of times as we introduce different boards and/or different programming languages. 
+This is about the simplest circuit possible, and serves as a good check that the whole tool-chain is working as expected, and that you can drive simple outputs. It is often used as the embedded systems equivalent of 'Hello World', and you will see this a number of times as we introduce different boards and/or different programming languages.
 
 1. Create a file in your IDE called '`blink.py`' with code as in @lst:blink, and save the file when you have finished:
 
@@ -66,23 +66,23 @@ print("Finished.")
 
 2. Once you're ready to transfer the program to your Pico --- you should see the on-board LED (green light next to the USB socket) flashing. To do this, open command palette (Ctrl-Shift-P) and run the script on the Pico using MicroPico: Run current file on Pico or at the bottom of window press the Run button as shown in @fig:vscode_bot. This will be stop when the code is running which you can use to stop the code.
 
-![VSCode bottom bar](/home/halliw02/git/pico_tutorial/chapters/media/vscodebottom.png){#fig:vscode_bot}
+![VSCode bottom bar]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/vscodebottom.png){#fig:vscode_bot}
 
 You can upload the file to the Pico by right clicking on file and selecting Upload file to Pico[^up5] as shown in @fig:vscode_upload.
 
-![Upload file to Pico](/home/halliw02/git/pico_tutorial/chapters/media/vspico_upload.png){#fig:vscode_upload width="30%"}
+![Upload file to Pico]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/vspico_upload.png){#fig:vscode_upload width="30%"}
 
 3. Now we want to create a simple circuit on the bread-board, which attaches an LED to the ground (`GND`) on the _Custom Board_ headers via a 330$\Omega$ resistor. We need to make sure the LED is the right-way around - the long leg is connected to the anode (that is positive) and the short leg to the cathode (that is negative).
 
 4. We need to figure out where to attach the positive leg of the LED to. First of all, we need to change line 4 in @lst:blink to be `led = Pin(2, Pin.OUT)`{.python} --- so we are now toggling `Pin 2`, or more precisely the `GPIO Pin 2` (where 'GPIO' stands for _General Purpose Input/Output_). The full diagram of the Pico looks like @fig:PicoPins and if we look we can see that `GPIO Pin 2` is also known as `GP2`, which is how you will find it marked on the _Custom Board_.
 
-   ![The Pin Layout of the Standard Raspberry Pi Pico Board](/home/halliw02/git/pico_tutorial/chapters/media/picow_pinout.png){#fig:PicoPins width=75% }
+   ![The Pin Layout of the Standard Raspberry Pi Pico Board]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/picow_pinout.png){#fig:PicoPins width=75% }
 
    Like many micro-controllers, the functionality you need will depend on what you are using it for: so to save space you can select which _mode_ the pin is in, enabling different functionality when you need it. Our Pico will default to using GPIO mode: but you can adjust this if you want (and will do in later Workshops).
 
 5. Hook up the `GP2` via a resistor to the positive leg of the LED, and make sure the negative leg is connected to `GND`, run the code and it should start to flash. If it does: congratulations, and everything is working! If not, you may need to start debugging …
 
-   ![An Example of the Final Board Layout](/home/halliw02/git/pico_tutorial/chapters/media/final_board.jpeg){ #fig:PicoFinal width=50% }
+   ![An Example of the Final Board Layout]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/final_board.jpeg){ #fig:PicoFinal width=50% }
 
    The final circuit should look something like @fig:PicoFinal. If not, double-check your code, and the previous steps: if in doubt ask for help.
 
@@ -90,7 +90,7 @@ You can upload the file to the Pico by right clicking on file and selecting Uplo
 
 It is worth that clicking on the `Toggle Pico-W-FS` on the bottom bar of VS Code as shown in @fig:vscode_bot will open the files on the Pico itself. This means in the explorer part of the VSCode window you will see a Pico (W) Remote Workspace as shown in @fig:pico_ws, which shows you what is currently on the Pico. You can download the project from the Pico by right clicking and selecting Download project from Pico --- this will put files into current open file.
 
-![Pico (W) Remote Workspace in VS Code](/home/halliw02/git/pico_tutorial/chapters/media/vspico_workspace.png){#fig:pico_ws width="75%"}
+![Pico (W) Remote Workspace in VS Code]({{ site.baseurl }}/home/halliw02/git/pico_tutorial/chapters/media/vspico_workspace.png){#fig:pico_ws width="75%"}
 
 ## Next Steps
 

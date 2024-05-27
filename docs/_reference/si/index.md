@@ -8,18 +8,24 @@ has_children: true
 
 ## Overview
 
-This section covers the SI, or _International Systems of Units_. The SI system defines a coherent set of units, based on [seven fundamental constants](/reference/si/constants.html). Replacing older unit systems (The International System of Units (SI) (2019)) 
+This section covers the SI, or _International Systems of Units_. Within the SI units the relationship between quantity value $$A$$, numerical value $$\left\{ A \right\}$$, and the unit $$\left[ A \right]$$ in SI is
 
-> The International System of Units, the SI, has been used around the world as the preferred system of units, the basic language for science, technology, industry and trade since it was established in 1960 by a resolution at the 11th meeting of the Conférence Générale des Poids et Mesures, the CGPM (known in English as the General Conference on Weights and Measures).
+$$A = \left\{ A \right\}\left[ A \right]$$
 
-The SI system is _coherent_ in that all units derive in a structured manner from either the [fundamental constants](/reference/si/units.html#base-quantities-and-units), or from other units. SI also reserves twenty two [derived units](http://127.0.0.1:8080/reference/si/units.html#derived-si-units), in the sense of having their own name and symbol. A small number of other units are _not_ part of the SI system but are common enough that they [have an accepted definition](/reference/si/units.html#non-si-units-accepted-for-use) in terms of the standard SI units.
+SI chooses [seven constants]({{ site.baseurl }}/reference/si/constants.html) as _fundamental_, in having their value fixed, when expressed in the [corresponding SI units]({{ site.baseurl }}/reference/si/units.html#base-quantities-and-units). Thus the current definition is (SI Brochure, 20919. pg. 127)
 
-Alongside the units, the SI systems also defines a standard set of named [prefixes](/reference/si/prefixes.html). Prefixes serve as modifier to the unit name, or the unit symbol. Together with the units, this allows the SI system to define quantities over approximately 60 orders of magnitude within the same, coherent system.
-
-## Use Within Engineering and Science in the UK
-
-Within the UK, the SI system forms the default unit for science and engineering. Unless you are dealing with historic artefacts, _do not use_ the UK [historic units](): even if they are still common in some other areas of the world. For all drawings, calculations, and other technical writing the SI system is the _only_ unit system you should use by choice. 
+> The International System of Units, the SI, is the system of units in which
+>
+> * the unperturbed ground state hyperfine transition frequency of the caesium 133 atom, $$\Delta\nu_\text{Cs}$$, is $$9\ 192\ 631\ 770\ \text{Hz}$$,
+> * the speed of light in vacuum, $$c$$, is $$299\ 792\ 458\ \text{m/s}$$,
+> * the Planck constant, $$h$$, is $$6.626\ 070\ 15 \times 10^{−34}\ \text{J}\ \text{s}$$,
+> * the elementary charge, $$e$$, is $$1.602\ 176\ 634 \times 10^{−19}\ \text{C}$$,
+> * the Boltzmann constant, $$k$$, is $$1.380\ 649 \times 10^{−23}\ \text{J/K}$$,
+> * the Avogadro constant, $$N_A$$, is $$6.022\ 140\ 76 \times 1023\ \text{mol}^{−1}$$,
+> * the luminous efficacy of monochromatic radiation of frequency $$540 \times 1012\ \text{Hz}$$, $$K_\text{cd}$$, is $$683\ \text{lm}/\text{W}$$,
+>
+>where the hertz, joule, coulomb, lumen, and watt, with unit symbols $$\text{Hz}$$, $$\text{J}$$, $$\text{C}$$, $$\text{lm}$$, and $$\text{W}$$, respectively, are related to the units second, metre, kilogram, ampere, kelvin, mole, and candela, with unit symbols $$\text{s}$$, $$\text{m}$$, $$\text{kg}$$, $$\text{A}$$, $$\text{K}$$, $$\text{mol}$$, and $$\text{cd}$$, respectively, according to $$\text{Hz} = \text{s}^{–1}$$, $$\text{J} = \text{kg}\ \text{m}^2\ \text{s}^{–2}$$, $$\text{C} = \text{A}\ \text{s}$$, $$\text{lm} = \text{cd}\ \text{m}^2\ \text{m}^{–2} = \text{cd}\ \text{sr}$$, and $$\text{W} = \text{kg}\ \text{m}^2\ \text{s}^{–3}$$.
 
 ## References
 
-* _The International System of Units_ (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. [[online](https://www.bipm.org/en/publications/si-brochure)].
+* _SI Brochure: The International System of Units_ (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. [[online](https://www.bipm.org/en/publications/si-brochure)].

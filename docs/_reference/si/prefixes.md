@@ -20,7 +20,7 @@ nav_order: 2
 | giga             | G             | $$10^{9}$$          | 1 000 000 000                             |
 | mega             | M             | $$10^{6}$$          | 1 000 000                                 |
 | kilo             | k             | $$10^{3}$$          | 1 000                                     |
-| _hecto_{: .grey} | _h_{: .grey}  | $$10^{2}$$          | _10_{: .grey}                            |
+| _hecto_{: .grey} | _h_{: .grey}  | $$10^{2}$$          | _10_{: .grey}                             |
 | _deca_{: .grey}  | _da_{: .grey} | $$10^{1}$$          | _10_{: .grey}                             |
 |                  |               | $$\mathbf{10^{0}}$$ | **1**                                     |
 | _deci_{: .grey}  | _d_{: .grey}  | $$10^{-1}$$         | _0.1_{: .grey}                            |
@@ -36,4 +36,4 @@ nav_order: 2
 | ronto            | r             | $$10^{-27}$$        | 0.000 000 000 000 000 000 000 000 001     |
 | quecto           | q             | $$10^{-30}$$        | 0.000 000 000 000 000 000 000 000 000 001 |
 
-_The International System of Units (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. Table 7 (SI Prefixes). pg. 143._{: .grey}
+_SI Brochure: The International System of Units (SI) (2019). Bureau International des Poids et Mesures. Ninth Edition. Table 7 (SI Prefixes). pg. 143._{: .grey}

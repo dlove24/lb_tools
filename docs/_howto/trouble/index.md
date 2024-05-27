@@ -7,7 +7,7 @@ nav_order: 1
 
 # Goals
 
-Solutions don't usually work first time, and this How To covers the core checks you should take to identify corrective actions. More detailed discussions are in the [Further Reading](/howto/trouble/index.html#further-reading) section. The checklists below based on material written by Tony Kuphaldt in his _Troubleshooting_ chapter from _Lessons in Electric Circuits, Reference, Volume 5_.
+Solutions don't usually work first time, and this How To covers the core checks you should take to identify corrective actions. More detailed discussions are in the [Further Reading]({{ site.baseurl }}/howto/trouble/index.html#further-reading) section. The checklists below based on material written by Tony Kuphaldt in his _Troubleshooting_ chapter from _Lessons in Electric Circuits, Reference, Volume 5_.
 
 ## Further Reading
 
